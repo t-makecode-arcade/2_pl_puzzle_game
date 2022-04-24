@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiA8AW1W1uwCID7C7VVW7iIi4sLtVVf+7i7iwu1VV/7u7uLC7VVX/uLsIsLtVVf+4uwiwu1VV/7u7uLC7VVX/u4u4sLtVVbuIiLgAW1W1uwCIDwAAAAAAAIgPAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "army man"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAu1VVuwsAALBbVVW7uwAAsFtVVbu7iIiwW1VVu7uIiLBbVVW7u4iPsFtVVbu7iI+wW1W1u7uIiLBbVbW7u4iIsFtVtbu7AACwW7W7uwsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "army man left"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
